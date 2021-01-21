@@ -1,5 +1,5 @@
 # ML-Study
-YBIGTA 머신러닝 스터디 with Hand on Machine Learning (2020.03)
+### YBIGTA 머신러닝 스터디 with Hand on Machine Learning (2020.03)
 
 개강이 미루어지며 학회 정규세션 오픈 또한 미루어져 단기 스터디를 진행했다.
 
